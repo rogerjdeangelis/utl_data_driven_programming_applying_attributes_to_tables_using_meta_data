@@ -1,0 +1,2 @@
+# utl_data_driven_programming_applying_attributes_to_tables_using_meta_data
+Data driven programming: applying attributes to columns using meta data.  Keywords: sas sql join merge big data analytics macros oracle teradata mysql sas communities stackoverflow statistics artificial inteligence AI Python R Java Javascript WPS Matlab SPSS Scala Perl C C# Excel MS Access JSON graphics maps NLP natural language processing machine learning igraph DOSUBL DOW loop stackoverflow SAS community.
